@@ -1,7 +1,7 @@
 # EX3 Write a program to count the number of digits in an integer.
 # Developed by: MOHAN RAJ C
 # RegisterNumber: 212223040114
-## DATE: 14/03/26
+## DATE: 28/03/26
 
 ## AIM:
 To write a java program to count the number of digits in an integer.
